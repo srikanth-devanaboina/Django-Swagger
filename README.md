@@ -13,7 +13,7 @@ drf-yasg==1.20.0
 You can install these using pip:
 
 ```bash
-pip install drf-yasg==1.20.0 django-cors-headers==3.11.0
+pip install drf-yasg==1.20.0
 ```
 
 ## Django Settings Configuration

@@ -92,6 +92,8 @@ urlpatterns = [
 ]
 ```
 
+
+
 ![Screenshot from 2024-04-19 14-55-39](https://github.com/srikanth-devanaboina/Django-Swagger/assets/82710582/2192fb8c-e719-4432-a733-bed70e434fea)
 
 

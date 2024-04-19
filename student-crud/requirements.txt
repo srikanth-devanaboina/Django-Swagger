@@ -1,2 +1,4 @@
 Django
 djangorestframework
+drf-yasg
+psycopg2

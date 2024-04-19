@@ -92,6 +92,10 @@ urlpatterns = [
 ]
 ```
 
+![Screenshot from 2024-04-19 14-55-39](https://github.com/srikanth-devanaboina/Django-Swagger/assets/82710582/2192fb8c-e719-4432-a733-bed70e434fea)
+
+
+
 ## Summary
 
 The above settings and configurations enable your Django application to serve API documentation using both Swagger UI and ReDoc. This documentation is accessible over both HTTP and HTTPS protocols and includes security definitions for API key and Accept-Language headers. Ensure you have properly configured the CORS headers if your API is accessed from different domains.
